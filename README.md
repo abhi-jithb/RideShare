@@ -21,4 +21,5 @@
 
 
 Figma link : https://www.figma.com/proto/xfjoVbpGrIvstaZ9OMp5sN/Rapido-App-Design-(Community)?type=design&node-id=2-194&t=QAss4ujJBg0MpuMN-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A169&mode=design
-* Figma link iof 
+
+Canva link :https://www.canva.com/design/DAF9vmcoNxo/XKRpNoFE6oVJME-TKPCAyg/edit
